@@ -162,5 +162,6 @@ const tecnologies = ["C#", "GUNA UI"]
 --- 
 
 ### Colaboradores - Collaborators:
-
-
+![Ahslex R (Ashley Díaz)](https://github.com/AhslexR)
+![On3l7d15h (Onell Dishmey)](https://github.com/On3l7d15h)
+![Daniels-not (Ramy Campusano)](https://github.com/Daniels-not)
