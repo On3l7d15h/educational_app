@@ -14,7 +14,7 @@ At this time, we have developed a Nasa Application, that allows to some educatio
 
 
 
-![](C:\Users\onell\source\repos\educational_app\preview\preview1.jpg)
+![](preview/preview1.jpg)
 
 
 
@@ -48,7 +48,7 @@ At this time, we have developed a Nasa Application, that allows to some educatio
 
 #### Inicio Sesión - Login:
 
-![](C:\Users\onell\source\repos\educational_app\preview\preview2.jpg)
+![](preview/preview2.jpg)
 
 
 
@@ -78,7 +78,7 @@ At this time, we have developed a Nasa Application, that allows to some educatio
 
 #### Vista Director - Director's View:
 
-![](C:\Users\onell\source\repos\educational_app\preview\preview3.jpg)
+![](preview/preview3.jpg)
 
 > Esta vista, es la vista del administrador o director, pueden ser más de uno, y permitirá, manejar los diferentes profesores, aparte de poder recompensar con medallas los esfuerzos de los docentes y estudiantes. Teniendo todo el control en la aplicación, y ver el rendimiento de cada uno de los miembros de la institución.
 > 
@@ -92,11 +92,11 @@ At this time, we have developed a Nasa Application, that allows to some educatio
 
 
 
-![](C:\Users\onell\source\repos\educational_app\preview\preview4.jpg)
+![](preview/preview4.jpg)
 
 
 
-![](C:\Users\onell\source\repos\educational_app\preview\preview5.jpg)
+![](previewp/review5.jpg)
 
 
 
@@ -113,7 +113,7 @@ At this time, we have developed a Nasa Application, that allows to some educatio
 
 ### Vista profesor - Professor's View:
 
-### ![](C:\Users\onell\source\repos\educational_app\preview\preview7.jpg)
+### ![](preview/preview7.jpg)
 
 > Esta es la vista del profesor, en la cual este podrá crear las diferentes tareas, asignaciones, materiales de estudio, y podrá ver los estudiantes de su sección, a las que le toca dar las clases.
 > 
@@ -125,7 +125,7 @@ At this time, we have developed a Nasa Application, that allows to some educatio
 
 ### Vista Alumno - Student's View:
 
-![](C:\Users\onell\source\repos\educational_app\preview\preview6.jpg)
+![](preview/preview6.jpg)
 
 
 
