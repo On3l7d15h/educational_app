@@ -1,6 +1,5 @@
 # Educational App  - Bilingual
 
----
 
 ¡Saludos!
 
